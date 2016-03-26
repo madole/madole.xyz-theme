@@ -1638,6 +1638,8 @@ pre {
 /* Leaderboard ad */
 .leaderboard-ad {
   background-color: #ffffff;
+  margin-right: 17px;
+  margin-left: 17px;
   margin-bottom: 30px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
